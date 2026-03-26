@@ -1,6 +1,8 @@
 <div align="center">
 
-# ✨ Voice & Vision Assistant for Blind ✨
+# Smart AI Vision Assistant
+
+Developed by Sahil Kumar
 
 ### An Advanced Voice & Vision Assistant for Blind and Visually Impaired Users
 
